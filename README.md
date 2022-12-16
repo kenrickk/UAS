@@ -39,4 +39,4 @@ Jawaban:
 
 ## No 5
 Soal: Simpan kode program beserta queryUAS.sql ke public repository github.
-Link Github: https://github.com/ericklauriantoo/UAS-BAP-03081200002-ERICK-LAURIANTO-20SI2
+Link Github: https://github.com/kenrickk/UAS_BAP
